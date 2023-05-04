@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>welcome_to_hinamister</title>
 <head>
 <body>
 
